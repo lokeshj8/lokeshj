@@ -70,6 +70,6 @@ I’m currently exploring **AWS, Spring Boot, and Cloud Computing** to further e
 
 - 📧 **[Email Me](mailto:jlokesh2002@gmail.com)**  
 - 💼 **[LinkedIn](https://www.linkedin.com/in/jejappagarilokesh/)**  
-- 🌐 *I’m open to freelance opportunities, collaborations, and full-time roles in leading MNCs.*  
+- 🌐 *I am open to full-time roles, freelance projects, and collaborations in the tech industry.*  
 
 👀 *Let’s connect to build something amazing together!*
