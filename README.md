@@ -5,7 +5,6 @@ I'm a **Mechanical Engineering Graduate** turned **Software Developer**, passion
 
 I specialize in:  
 - **Java, React, Redux, SQL**  
-- **3D Modeling Tools**: CREO, SolidWorks, AutoCAD  
 - Problem-solving, Clean Code, and Scalable Solutions.  
 
 I’m currently exploring **AWS, Spring Boot, and Cloud Computing** to further enhance my skills and create advanced solutions for modern challenges.  
@@ -18,8 +17,6 @@ I’m currently exploring **AWS, Spring Boot, and Cloud Computing** to further e
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![AutoCAD](https://img.shields.io/badge/AutoCAD-BC0202?style=for-the-badge&logo=autodesk&logoColor=white)  
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF1414?style=for-the-badge&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
