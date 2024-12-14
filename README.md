@@ -20,3 +20,21 @@ I'm a Mechanical Engineering graduate passionate about coding, web development, 
 
 📫 **Contact Me**  
 [Email](mailto:jlokesh2002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jejappagarilokesh/)
+# Eye Care Management System 🧐
+A web app to manage patient data, appointments, and prescriptions using **Java and SQL**.
+
+## ✨ Features
+- Add, edit, and delete patient records.
+- Book and manage patient appointments.
+- Generate detailed reports and summaries.
+
+## 🚀 Tech Stack
+- **Backend**: Java (Servlets, JDBC)  
+- **Database**: MySQL  
+- **Frontend**: HTML, CSS, JS  
+
+## ⚙️ Installation
+```bash
+git clone https://github.com/lokeshj8/eye-care-management-system.git
+cd eye-care-management-system
+# Instructions for setting up the project
