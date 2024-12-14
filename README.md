@@ -56,7 +56,7 @@ I’m currently exploring **AWS, Spring Boot, and Cloud Computing** to further e
 - **Description**: A clean, animated portfolio showcasing my skills and projects.  
 - **Tech Stack**:  
   - Built using **React and JavaScript** with a focus on modern UI/UX design.  
-- **Status**: *Coming Soon!*  
+- **[📂 GitHub Repo](https://lokeshj8.github.io/Portfolio/)**  
 
 ---
 
