@@ -8,7 +8,7 @@ I specialize in:
 - **3D Modeling Tools**: CREO, SolidWorks, AutoCAD  
 - Problem-solving, Clean Code, and Scalable Solutions.  
 
-I’m currently exploring **AWS, Spring, and Cloud Computing** to further enhance my skills and create advanced solutions for modern challenges.  
+I’m currently exploring **AWS, Spring Boot, and Cloud Computing** to further enhance my skills and create advanced solutions for modern challenges.  
 
 ---
 
