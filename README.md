@@ -38,3 +38,31 @@ A web app to manage patient data, appointments, and prescriptions using **Java a
 git clone https://github.com/lokeshj8/eye-care-management-system.git
 cd eye-care-management-system
 # Instructions for setting up the project
+---
+
+### **3. Make Consistent Contributions**
+- **Daily/Weekly Commits**: Make regular commits, even small ones, to maintain a strong contribution graph.  
+- **Contribute to Open Source**: Find beginner-friendly issues on platforms like [GitHub Issues](https://github.com/issues) or [Good First Issues](https://goodfirstissues.com/).  
+- **Work on Side Projects**: Continue updating your portfolio website, calculator app, and other mini-projects.  
+
+---
+
+### **4. Use GitHub Workflows and Actions**
+- Set up GitHub Actions to automate your workflows, like running tests, checking code quality, or deploying your portfolio site.  
+
+---
+
+### **5. Improve GitHub Profile SEO**
+- **Use Keywords in Descriptions**: Add keywords like "Java Developer", "React", "Portfolio", "Web Development", etc., in project descriptions.  
+- **Proper Naming**: Use clear names for repositories, like `eye-care-management-system`, `electricity-bill-generator`, etc.  
+
+---
+
+### **6. Add GitHub Profile Widgets**
+- **GitHub Stats**: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshj8&show_icons=true&theme=radical)  
+- **Top Languages**: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshj8&layout=compact)  
+
+Add these to your README.md:  
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshj8&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshj8&layout=compact)
