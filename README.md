@@ -1,7 +1,7 @@
 # **Lokesh Jejappagari** 👋  
 
 🚀 **About Me**  
-I'm a **Mechanical Engineering Graduate** turned **Software Developer**, passionate about **coding**, **web development**, and **design engineering**. My goal is to contribute to impactful projects that merge technology and innovation.  
+I'm a **Mechanical Engineering Graduate** with a passion for **Coding, Web development, and Design Engineering**. I aim to contribute to meaningful projects where technology and innovation come together.
 
 I specialize in:  
 - **Java, React, Redux, SQL**  
